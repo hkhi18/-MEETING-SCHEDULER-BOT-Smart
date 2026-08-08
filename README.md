@@ -1,10 +1,3 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║         KFSHRC INTELLIGENT MEETING SCHEDULER BOT                            ║
-║                                                                              ║
-║         Smart. Automated. Efficient. Save Hours Every Week!                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
 
 
 📑 TABLE OF CONTENTS
