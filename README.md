@@ -71,7 +71,7 @@ The KFSHRC Meeting Bot is an AI Agent because it:
 
 SECTION B: WHAT MODEL DID WE CHOOSE AND WHY?
 
-We used Claude Sonnet (AI Foundation Model) for this project because:
+We used Gemini AI (by Google - AI Foundation Model) for this project because:
 
     1. Fast and Efficient Processing
        ▪ Ideal for real-time email handling
@@ -104,7 +104,7 @@ Capabilities:
     3. Reason logically (analyze data, make decisions)
     4. Adapt to different tasks (scheduling, responding, formatting)
 
-Claude is a Foundation Model because:
+Gemini AI is a Foundation Model because:
     1. Trained on billions of words
     2. Can understand context and nuance
     3. Can perform many different tasks
@@ -124,42 +124,42 @@ The Complete Flow:
 
     1️⃣  Email Arrives
         └─ Agent receives email
-        └─ Claude understands what it means
+        └─ Gemini AI understands what it means
 
     2️⃣  Extract Information
-        └─ Claude reads the meeting request
-        └─ Claude extracts: attendees, topic, duration, deadline
+        └─ Gemini AI reads the meeting request
+        └─ Gemini AI extracts: attendees, topic, duration, deadline
 
     3️⃣  Send Surveys
         └─ Agent creates and sends survey emails
-        └─ Claude generates professional survey text
+        └─ Gemini AI generates professional survey text
         └─ Professional emails sent to all attendees
 
     4️⃣  Attendees Reply
         └─ Input: Multiple emails with proposed times
         └─ Example: "10-08-2026 14:00"
 
-    5️⃣  Claude Reads Responses
-        └─ Claude reads and understands all reply emails
-        └─ Claude extracts proposed times
-        └─ Claude understands preferences
+    5️⃣  Gemini AI Reads Responses
+        └─ Gemini AI reads and understands all reply emails
+        └─ Gemini AI extracts proposed times
+        └─ Gemini AI understands preferences
 
     6️⃣  Agent Analyzes
         └─ Agent collects all data
-        └─ Claude counts votes for each time
+        └─ Gemini AI counts votes for each time
         └─ 10-08-2026 14:00 = 2 votes (MOST)
 
     7️⃣  Agent Decides
         └─ Agent picks: 10-08-2026 14:00
-        └─ Claude confirms this is best consensus
+        └─ Gemini AI confirms this is best consensus
 
-    8️⃣  Claude Generates Confirmation
+    8️⃣  Gemini AI Generates Confirmation
         └─ Professional confirmation email created
         └─ All details included
 
     9️⃣  Generate Links
         └─ Agent creates technical links
-        └─ Claude formats them professionally
+        └─ Gemini AI formats them professionally
 
     🔟 Send Confirmations
         └─ Agent sends emails to all attendees
@@ -608,23 +608,23 @@ Calendar Formats (for proposals):
 
 ─────────────────────────────────────────────────────────────────────────────
 
- BENEFITS SUMMARY
+📊 BENEFITS SUMMARY
 
- Time Saved:
+⏱️  Time Saved:
     1. Average: 30 minutes per meeting scheduling
     2. Impact: For 5 meetings/week = 2.5 hours saved!
 
- Efficiency Gains:
+📈 Efficiency Gains:
     1. No back-and-forth emails
     2. Consensus-based selection
     3. Instant confirmations with links
 
- Professional:
+💼 Professional:
     1. Automated scheduling looks professional
     2. Complete audit trail for compliance
     3. Secure, classified email handling
 
-  User Experience:
+😊 User Experience:
     1. One-click to join Teams
     2. Easy calendar integration
     3. Instant notifications
@@ -632,7 +632,7 @@ Calendar Formats (for proposals):
 
 ─────────────────────────────────────────────────────────────────────────────
 
- YOU'RE ALL SET!
+🎉 YOU'RE ALL SET!
 
 Start using the bot TODAY to:
 
@@ -654,4 +654,114 @@ Happy scheduling! 🚀
 
 ─────────────────────────────────────────────────────────────────────────────
 Version 1.0 | August 2026 | KFSHRC IT Department
+─────────────────────────────────────────────────────────────────────────────
+
+    3️⃣  Reply to old emails
+        ✗ Always reply to latest survey
+
+    4️⃣  Propose past dates
+        ✗ Use future dates only
+
+    5️⃣  Invite too many people
+        ✗ More people = harder consensus
+
+    6️⃣  Use invalid email formats
+        ✗ Check for typos!
+
+
+─────────────────────────────────────────────────────────────────────────────
+
+9️⃣  CONTACT & SUPPORT
+
+❓ NEED HELP?
+
+    1️⃣  Technical Issues
+        → Contact IT Department
+        → Email: it-support@kfshrc.edu.sa
+        → Include: Meeting ID, screenshot, error message
+
+    2️⃣  Want to Block Someone
+        → Contact Administrator
+        → Email: admin@kfshrc.edu.sa
+        → Include: Email address to blacklist, reason
+
+    3️⃣  Feature Requests
+        → Submit via: feedback@kfshrc.edu.sa
+        → Subject: Meeting Bot Feature Request
+        → Describe: What you want to add
+
+
+📋 QUICK REFERENCE
+
+Email Format Template:
+
+    Subject: meeting bot - [MEETING TITLE]
+
+    Attendees: email1@domain.com, email2@domain.com
+    Topic: [Meeting Title]
+    Duration: [Minutes]
+    Deadline: [DD-MM-YYYY HH:MM] (optional)
+
+Reply Format Template:
+
+    [DD-MM-YYYY HH:MM]
+    [DD-MM-YYYY HH:MM]
+    [DD-MM-YYYY HH:MM]
+
+Calendar Formats (for proposals):
+
+    ✓ 10-08-2026 14:00 (CORRECT)
+    ✗ 10/08/2026 14:00 (WRONG)
+    ✗ 2:00 PM 10-Aug (WRONG)
+
+
+─────────────────────────────────────────────────────────────────────────────
+
+📊 BENEFITS SUMMARY
+
+⏱️  Time Saved:
+    1. Average: 30 minutes per meeting scheduling
+    2. Impact: For 5 meetings/week = 2.5 hours saved!
+
+📈 Efficiency Gains:
+    1. No back-and-forth emails
+    2. Consensus-based selection
+    3. Instant confirmations with links
+
+💼 Professional:
+    1. Automated scheduling looks professional
+    2. Complete audit trail for compliance
+    3. Secure, classified email handling
+
+😊 User Experience:
+    1. One-click to join Teams
+    2. Easy calendar integration
+    3. Instant notifications
+
+
+─────────────────────────────────────────────────────────────────────────────
+
+🎉 YOU'RE ALL SET!
+
+Start using the bot TODAY to:
+
+    1. Save hours every week
+    2. Eliminate scheduling conflicts
+    3. Get instant confirmations with Teams links
+    4. Impress colleagues with efficiency
+
+Try it now:
+
+    Subject: meeting bot - My First Meeting
+    Attendees: [invite your team]
+    Topic: Test Meeting
+    Duration: 30
+
+Questions? Check FAQ above or contact support.
+
+Happy scheduling! 🚀
+
+─────────────────────────────────────────────────────────────────────────────
+Version 1.0 | August 2026 | KFSHRC IT Department
+─────────────────────────────────────────────────────────────────────────────
 ─────────────────────────────────────────────────────────────────────────────
