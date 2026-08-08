@@ -2,6 +2,8 @@ KFSHRC INTELLIGENT MEETING SCHEDULER BOT
 
 Smart. Automated. Efficient. Save Hours Every Week!
 
+
+
 TABLE OF CONTENTS
 
 1. What is the Meeting Scheduler Bot?
@@ -15,6 +17,7 @@ TABLE OF CONTENTS
 9. Contact & Support
 
 
+
 1. WHAT IS THE MEETING SCHEDULER BOT?
 
 The KFSHRC Meeting Scheduler Bot is an intelligent automation tool that:
@@ -24,10 +27,12 @@ SAVES TIME
 • Automatically finds consensus time from all attendees
 • Results in minutes, not hours or days
 
+
 ELIMINATES CONFLICTS
 • Attendees propose available times
 • Bot picks the time that works for MOST people
 • Fair, automatic consensus selection
+
 
 SENDS SMART CONFIRMATIONS
 • One-click Teams meeting join link
@@ -39,6 +44,7 @@ TRACKS EVERYTHING
 • Logs all responses
 • Records meeting decisions
 • Maintains audit trail for compliance
+
 
 
 2. HOW AI AGENTS WORK IN THIS PROJECT
