@@ -264,7 +264,7 @@ Attendees will receive an email:
     You have been invited to the following meeting:
 
     Topic: Quarterly Planning Session
-    Organizer: haninksa15@gmail.com
+    Organizer: user@gmail.com
     Meeting ID: a1b2c3d4
 
     Please reply to this email with the times you are available:
